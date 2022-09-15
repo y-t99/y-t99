@@ -6,6 +6,10 @@
 🌱 I’m currently learning typescript, rust, mongo & docker.
 </p>
 
+
+This is my other [projects](https://gitee.com/yuantao99).
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-t99&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
