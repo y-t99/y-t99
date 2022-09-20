@@ -7,8 +7,11 @@
 </p>
 
 
-This is my other [projects](https://gitee.com/yuantao99).
+These are my other [projects](https://gitee.com/yuantao99).
 
+At the beginning of the run, it difficult to drag the body. But when running🏃, we will find that the step is lighter than we thought.
+
+I love someone who are running in the dream. His life never will be wasted.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-t99&show_icons=true&theme=radical)](#)
 
