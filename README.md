@@ -1,6 +1,5 @@
-<p>
+
 👋 Hi, i'm itou. These are my other [projects](https://gitee.com/yuantao99).
-</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-t99&show_icons=true&theme=radical)](#)
 
