@@ -3,6 +3,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-t99&show_icons=true&theme=radical)](#)
 
+
+<img
+  src="https://komarev.com/ghpvc/?username=y-t99&color=lightgrey&label=Visitors&style=flat-square"
+  alt="counter"
+/>
 <!--
 **y-t99/y-t99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
