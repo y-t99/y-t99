@@ -1,5 +1,3 @@
-[🍀Blog](https://www.yuque.com/y-t99/blog)
-
-
+![](https://visitor-badge.laobi.icu/badge?page_id=y-t99.readme)
 
 **Don't be afraid to fail!**
